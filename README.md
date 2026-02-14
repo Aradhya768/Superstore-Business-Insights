@@ -22,10 +22,31 @@ The following analysis was performed:
  4. Impact of discount on profit
  5. Correlation analysis between numerical features.
 
-Key Insights:
- 1. Certain categories generated high sales but low profit margins.
- 2. Some regions performed strongly in revenue but showed inconsistent profitability.
- 3. Higher discount levels negatively impacted profit in several segments.
- 4. A few sub-categories contributed to overall losses despite good sales volume.
+ Tools & Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Plotly
+- Jupyter Notebook
+
+   Visualizations
+
+### Sales by Category
+![Sales by Category](images/Salesbycategory.png)
+
+### Sales by Sub-Category
+![Sales by Sub-Category](images/salesbysubcategory.png)
+
+### Customer Segment Analysis
+![Customer Segment](images/sales_and_profit_analysis_by_customer_segment.png)
+
+### Sales by Sub-Category (Bar Graph)
+![Sales by Sub-Category](images/salesbysubcategorygraph.png)
+
+
+
+
+
 
 
